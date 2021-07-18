@@ -1,4 +1,4 @@
-<h1 align="center">What's up? 👋 I'm Go</h1>
+<h1 align="center">What's up? 👋 I'm Gosei Nakazono</h1>
 <h3 align="center">I'm a web developer in Japan.</h3>
 
 <h3 align="left">Connect with me:</h3>
